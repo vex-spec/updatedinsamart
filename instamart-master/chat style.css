@@ -1,0 +1,21 @@
+chat{
+    padding: 20px;
+    margin: 10px;
+    text-align: center;}
+
+legend {
+    font-weight: bolder;
+    font-size: 30px;
+
+}
+button{
+    background-color: darkturquoise;
+    border-radius: 15px;
+    margin: 0 auto;
+     width: 50px;
+    height: 40px;
+    display: block;
+
+}
+
+

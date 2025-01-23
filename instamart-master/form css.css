@@ -1,0 +1,65 @@
+form{
+    background: aliceblue;
+    width: 100%;
+    height: 102%;
+    margin: 0 auto;
+    float: left;
+    color: black;
+    column-gap: 0px;
+}
+p{
+    color: black;
+}
+
+
+button{
+    background: deepskyblue;
+    border-radius: 20px;
+    width: 90px;
+    height: 30px;
+    display: block;
+    margin: 0 auto;
+}
+input[type=text],input[type=email],input[type=tel],select{
+     width: 70%;
+    height: 40px;
+    margin-left: 30px;
+    padding-left: 15px;
+    color: black;
+}
+textarea{
+    width: 70%;
+    background-color: lightgray;
+    margin-left: 30px;
+}
+legend {
+    font-weight: bolder;
+    font-size: 20px;
+    text-align: center;
+    color: black;
+
+}
+h1{
+    color: whitesmoke;
+    font-weight: bolder;
+    text-align: center;
+}
+p{
+    color: whitesmoke;
+    text-align: center;
+}
+ashura{
+     width: 100%;
+    height: 100%;
+     float:right;
+    margin: 0 auto;
+    column-gap: 0px;
+}
+chat{
+    width: 50%;
+    column-gap: 0%;
+    display: flex;
+    margin: 0 auto;
+    float:right;
+    padding: 0 100px;
+}
