@@ -1,6 +1,6 @@
 form{
     background: aliceblue;
-    width: 50%;
+    width: 100%;
     height: 102%;
     margin: 0 auto;
     float: left;
@@ -49,22 +49,17 @@ p{
     text-align: center;
 }
 ashura{
-     width: 50%;
+     width: 100%;
     height: 100%;
      float:right;
-      }
+    margin: 0 auto;
+    column-gap: 0px;
+}
 chat{
-    width: 70%;
+    width: 50%;
     column-gap: 0%;
     display: flex;
     margin: 0 auto;
     float:right;
-    padding: 100px;
-}
-flex-container{
-    display: flex;
-}
-chat{
-    margin: 30px;
-    padding: 30px;
+    padding: 0 100px;
 }
